@@ -7,3 +7,12 @@
   13 git status
   14 git status
   15 git restore test.py
+  16 history
+  17 git status
+  18 git add .\commands.txt
+  19 git commit -m "added git commands"
+  20 git status
+  21 git remote add origin https://github.com/shubhekkumar/Github... 
+  22 git branch
+  23 git push -u origin master
+  
