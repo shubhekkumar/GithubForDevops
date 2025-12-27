@@ -17,3 +17,28 @@
   23 git push -u origin master
 
 This is some new changes added.
+
+24 Hide-VirtualDiskstory
+  25 history
+  26 git status
+  27 git add .\commands.txt
+  28 git commit -m "new commands added"
+  29 git push -u origin master
+  30 git pull origin master
+  31 git branch
+  32 git branch dev
+  33 git switch dev
+  34 git add .\new_dev_file.txt
+  35 git commit -m "new dev file added"
+  36 git status
+  37 git switch master
+  38 git switch dev
+  39 git switch master
+  40 git log
+  41 git log --oneline
+  42 git switch dev
+  43 git log --oneline
+  44 git checkout master
+  45 git push origin dev
+  46 git checkout master
+  47 git pull origin master
