@@ -1,10 +1,8 @@
 def add():
 
     a = 3
-
     b = 3
-
-    return a
+    return a+b
 
 
 add()
